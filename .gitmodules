@@ -1,0 +1,3 @@
+[submodule "aerial_control"]
+	path = aerial_control
+	url = https://github.com/OSURoboticsClub/aerial_control
